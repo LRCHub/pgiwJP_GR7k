@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぼくのかみさま",
+  "base_artist": "羽生まゐご",
+  "createdAt": "2026-01-13T07:32:31.975493Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぼくのかみさま",
+      "artist": "羽生まゐご",
+      "has_synced": false,
+      "path": "select/pl_01_ぼくのかみさま_羽生まゐご.txt"
+    }
+  ]
+}
